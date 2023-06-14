@@ -14,6 +14,8 @@ Executa o projeto
 ````js
 npx create-react-app --template typescript alura-studies --use -npm
 ````
+![criacao de pacotes](https://github.com/bruleonel/alura-studies/assets/104650333/aeee6100-c52d-4efa-af39-0b73e76f052b)
+
 Com esse comando, estamos informando várias coisas, sendo elas:
 
 ````js
