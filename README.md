@@ -87,3 +87,6 @@ Para criarmos um componente com class components, precisamos estender à classe 
 ## Modules
 
 <a href="https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/">Documentação</a>
+
+## Pontos que precisam ser estudados
+- uuid (pacote que cria Ids)
